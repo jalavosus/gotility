@@ -1,5 +1,7 @@
 # gotility
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/jalavosus/gotility.svg)](https://pkg.go.dev/github.com/jalavosus/gotility)
+
 gotility provides various utility functions, types, and more. 
 
 ## Packages/Functions
