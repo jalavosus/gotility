@@ -1,6 +1,7 @@
 # gotility
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/jalavosus/gotility.svg)](https://pkg.go.dev/github.com/jalavosus/gotility)
+[![Tests](https://github.com/jalavosus/gotility/actions/workflows/test.yml/badge.svg)](https://github.com/jalavosus/gotility/actions/workflows/test.yml)
 
 gotility provides various utility functions, types, and more. 
 
