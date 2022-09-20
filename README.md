@@ -46,3 +46,10 @@ gotility provides various utility functions, types, and more.
 
 - `FromPointer[T any](val *T) T`
   - Returns the non-pointer value of the passed pointer. If the passed pointer is nil, the zero value for type T is returned instead.
+
+### pkg/maps
+
+- `ConcurrentMap[K comparable, V any]`
+  - Generic, concurrency-safe wrapper around the inbuilt `map` type.
+- `NewConcurrentMap[K comparable, V any]`
+  - Returns a new, fully initialized `ConcurrentMap`. 
